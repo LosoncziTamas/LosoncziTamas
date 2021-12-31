@@ -1,9 +1,9 @@
-## Tamás Losonczi
+# Tamás Losonczi
 
-A commited programmer who loves coding and listening to speed metal.
+A game programmer who loves coding and speed metal.
 
-
-### Unity/C# projects:
+## Projects
+### Unity/C#:
 
 [Heartache](https://github.com/LosoncziTamas/Heartache) - roguelike game\
 [Chessman](https://github.com/LosoncziTamas/Chessman) - a chess game implementation\
@@ -21,7 +21,7 @@ A commited programmer who loves coding and listening to speed metal.
 
 ### Miscellaneous:
 
-[Notes](https://github.com/LosoncziTamas/Notes) - notes on various programming topics.
+[Notes](https://github.com/LosoncziTamas/Notes) - notes on various programming topics
 
 <!--
 **LosoncziTamas/LosoncziTamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
