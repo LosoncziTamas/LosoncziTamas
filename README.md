@@ -5,10 +5,10 @@ A game programmer who loves coding and speed metal.
 ## Projects
 ### Unity/C#:
 
+[BarrierBlaster](https://github.com/LosoncziTamas/BarrierBlaster) - Arkanoid-like arcade game\
 [Heartache](https://github.com/LosoncziTamas/Heartache) - roguelike game\
 [Chessman](https://github.com/LosoncziTamas/Chessman) - a chess game implementation\
 [PhotoPicker](https://github.com/LosoncziTamas/PhotoPicker) - native plugin for photo handling on Android 10+ devices\
-[BrickBreakerAR](https://github.com/LosoncziTamas/BrickBreakerAR) - Arkanoid-clone in AR\
 [3DFileConverter](https://github.com/LosoncziTamas/3DFileConverter) - OBJ to STL converter
 
 ### C/C++:
